@@ -1,4 +1,4 @@
-# -Design
+# Interactive Restaurant Website
 In this project, I create an interactive homepage of a restaurant, where the background image will change when we hover over a menu option. For example, if you hover over menu navigation, it will display a menu card, if you hover over the home, it will show the default. You have to give your image names and locations for this to work. The ‘order now’ button will keep flashing.
 
 <html>
